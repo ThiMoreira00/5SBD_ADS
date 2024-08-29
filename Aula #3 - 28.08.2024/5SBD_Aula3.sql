@@ -35,31 +35,6 @@ CREATE TABLE `sbd_produtos` (
   `quantidade` int(11) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Despejando dados para a tabela `sbd_produtos`
---
-
-INSERT INTO `sbd_produtos` (`id`, `codigo`, `nome`, `preco`, `quantidade`) VALUES
-(3, '1', 'Frutas Tropicais', 10, 1),
-(4, '2', 'Mel Gourmet', 20, 2),
-(5, '3', 'Arroz Integral', 30, 3),
-(6, '4', 'Leite Natural', 40, 4),
-(7, '5', 'Pasta de Amendoim', 50, 5),
-(8, '6', 'Creme Hidratante', 60, 6),
-(9, '7', 'Desinfetante Citrus', 70, 7),
-(10, '8', 'Cereal Integral', 80, 8),
-(11, '9', 'Biscoito Crocante', 90, 9),
-(12, '10', 'Condimento Aromático', 100, 10),
-(13, '11', 'Óleo de Cozinha', 110, 11),
-(14, '12', 'Sabonete Líquido', 120, 12),
-(15, '13', 'Sucos Naturais', 130, 13),
-(16, '14', 'Papel Toalha', 140, 14),
-(17, '15', 'Café Gourmet', 150, 15),
-(18, '16', 'Manteiga Clarificada', 160, 16),
-(19, '17', 'Shampoo Revitalizante', 170, 17),
-(20, '18', 'Granola Caseira', 180, 18),
-(21, '19', 'Gel de Aloe Vera', 190, 19),
-(22, '20', 'Condicionador Nutritivo', 200, 20);
 
 -- --------------------------------------------------------
 
@@ -86,17 +61,6 @@ CREATE TABLE `sbd_tempdata` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Despejando dados para a tabela `sbd_tempdata`
---
-
-INSERT INTO `sbd_tempdata` (`codigoPedido`, `dataPedido`, `SKU`, `UPC`, `nomeProduto`, `qtd`, `valor`, `frete`, `email`, `codigoComprador`, `nomeComprador`, `endereco`, `CEP`, `UF`, `pais`) VALUES
-('codigoPedido', '0000-00-00', 'SKU', 'UPC', 'nomeProduto', 0, 0, 0, 'email', 'cod', 'nomeComprador', 'endereco', 'CEP', 'UF', 'pais'),
-('abc123', '2024-03-19', 'brinq456rio', '456', 'quebra-cabeca', 1, 43, 5, 'samir@gmail.com', '123', 'Samir', 'Rua Exemplo 1', '21212322', 'RJ', 'Brasil'),
-('abc123', '2024-03-19', 'brinq789rio', '789', 'jogo', 1, 43, 5, 'samir@gmail.com', '123', 'Samir', 'Rua Exemplo 1', '21212322', 'RJ', 'Brasil'),
-('abc789', '2024-03-20', 'roupa123rio', '123', 'camisa', 2, 47, 6, 'teste@gmail.com', '789', 'Fulano', 'Rua Exemplo 2', '14784520', 'RJ', 'Brasil'),
-('abc741', '2024-03-21', 'brinq789rio', '789', 'jogo', 1, 43, 5, 'samir@gmail.com', '123', 'Samir', 'Rua Exemplo 1', '21212322', 'RJ', 'Brasil');
-
---
 -- Índices para tabelas despejadas
 --
 
@@ -120,3 +84,18 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+--
+-- --------------------------------------------------------
+--
+
+
+--
+-- Inserindo dados na tabela sbd_produtos a partir de um arquivo CSV
+--
+
+LOAD DATA INFILE 'C:/Users/HB04-01/Downloads/[5SBD] Planilha de Dados - Produtos.csv'
+INTO TABLE sbd_produtos
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n'
+(id, codigo, nome, preco, quantidade);

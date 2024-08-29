@@ -1,0 +1,21 @@
+id,codigo,nome,preço,quantidade
+1,1,Frutas Tropicais,10,1
+2,2,Mel Gourmet,20,2
+3,3,Arroz Integral,30,3
+4,4,Leite Natural,40,4
+5,5,Pasta de Amendoim,50,5
+6,6,Creme Hidratante,60,6
+7,7,Desinfetante Citrus,70,7
+8,8,Cereal Integral,80,8
+9,9,Biscoito Crocante,90,9
+10,10,Condimento Aromático,100,10
+11,11,Óleo de Cozinha,110,11
+12,12,Sabonete Líquido,120,12
+13,13,Sucos Naturais,130,13
+14,14,Papel Toalha,140,14
+15,15,Café Gourmet,150,15
+16,16,Manteiga Clarificada,160,16
+17,17,Shampoo Revitalizante,170,17
+18,18,Granola Caseira,180,18
+19,19,Gel de Aloe Vera,190,19
+20,20,Condicionador Nutritivo,200,20
