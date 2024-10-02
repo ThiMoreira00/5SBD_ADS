@@ -1,0 +1,972 @@
+﻿codigoPedido,dataPedido,SKU,UPC,nomeProduto,qtd,valor,frete,email,codigoComprador,nomeComprador,endereco,CEP,UF,pais
+P001,2024-09-09,BON005,765432109876,Boné,1,214.62,33.82,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P002,2024-09-11,CAL002,987654321098,Calça Jeans,2,173.78,21.16,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P003,2024-09-22,MOC006,890123456789,Mochila,1,289.89,43.88,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P003,2024-09-22,BON005,765432109876,Boné,2,106.49,22.03,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P003,2024-09-22,MOC006,890123456789,Mochila,2,52.55,49.06,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P004,2024-09-20,TEN003,567890123456,Tênis,1,239.65,30.37,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P004,2024-09-20,MOC006,890123456789,Mochila,1,286.64,49.64,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P004,2024-09-20,BON005,765432109876,Boné,5,187.16,24.33,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P005,2024-09-04,CAL002,987654321098,Calça Jeans,3,296.36,43.43,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P005,2024-09-04,MOC006,890123456789,Mochila,3,172.96,47.9,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P006,2024-09-02,BON005,765432109876,Boné,5,110.73,32.43,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P006,2024-09-02,CAL002,987654321098,Calça Jeans,1,83.42,22.15,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P007,2024-09-30,MOC006,890123456789,Mochila,4,128.39,17.51,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P007,2024-09-30,JAQ004,345678901234,Jaqueta,1,295.25,39.29,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P008,2024-09-26,MOC006,890123456789,Mochila,1,159.26,47.42,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P008,2024-09-26,CAM001,123456789012,Camiseta,3,241.07,25.33,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P009,2024-09-28,CAL002,987654321098,Calça Jeans,1,159.21,22.37,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P009,2024-09-28,TEN003,567890123456,Tênis,3,253.54,19.81,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P010,2024-09-21,CAM001,123456789012,Camiseta,5,100.89,11.84,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P010,2024-09-21,JAQ004,345678901234,Jaqueta,2,282.05,33.19,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P010,2024-09-21,JAQ004,345678901234,Jaqueta,4,77.63,20.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P011,2024-09-16,TEN003,567890123456,Tênis,3,74.24,16.84,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P012,2024-09-02,CAM001,123456789012,Camiseta,4,180.7,48.88,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P012,2024-09-02,MOC006,890123456789,Mochila,4,138.74,44.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P012,2024-09-02,CAL002,987654321098,Calça Jeans,5,104.0,13.36,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P013,2024-09-27,BON005,765432109876,Boné,1,289.31,20.33,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P013,2024-09-27,MOC006,890123456789,Mochila,1,105.04,17.29,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P014,2024-09-06,TEN003,567890123456,Tênis,2,147.89,17.57,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P015,2024-09-26,TEN003,567890123456,Tênis,1,206.13,41.32,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P015,2024-09-26,BON005,765432109876,Boné,3,253.52,26.45,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P016,2024-09-16,TEN003,567890123456,Tênis,5,266.41,25.34,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P017,2024-09-16,CAM001,123456789012,Camiseta,4,95.76,34.28,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P017,2024-09-16,JAQ004,345678901234,Jaqueta,4,140.95,38.15,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P018,2024-09-18,MOC006,890123456789,Mochila,5,219.68,45.41,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P018,2024-09-18,JAQ004,345678901234,Jaqueta,3,212.24,30.13,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P019,2024-09-20,JAQ004,345678901234,Jaqueta,3,183.64,42.61,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P020,2024-09-27,TEN003,567890123456,Tênis,1,231.2,32.19,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P020,2024-09-27,MOC006,890123456789,Mochila,5,53.65,27.79,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P020,2024-09-27,MOC006,890123456789,Mochila,2,190.31,19.37,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P021,2024-09-20,CAL002,987654321098,Calça Jeans,2,213.76,48.57,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P022,2024-09-25,BON005,765432109876,Boné,2,249.2,38.2,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P023,2024-09-19,CAL002,987654321098,Calça Jeans,1,95.32,30.32,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P023,2024-09-19,JAQ004,345678901234,Jaqueta,1,195.15,34.86,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P024,2024-09-29,MOC006,890123456789,Mochila,3,175.46,10.86,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P025,2024-09-07,BON005,765432109876,Boné,2,80.6,44.26,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P025,2024-09-07,TEN003,567890123456,Tênis,4,293.74,13.88,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P026,2024-09-14,TEN003,567890123456,Tênis,3,196.92,10.63,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P027,2024-09-09,MOC006,890123456789,Mochila,1,269.04,44.87,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P027,2024-09-09,JAQ004,345678901234,Jaqueta,5,139.83,23.91,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P027,2024-09-09,JAQ004,345678901234,Jaqueta,4,74.73,37.31,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P028,2024-09-06,JAQ004,345678901234,Jaqueta,5,187.23,29.85,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P029,2024-09-24,BON005,765432109876,Boné,3,132.77,28.67,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P030,2024-09-12,BON005,765432109876,Boné,2,286.72,32.07,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P031,2024-09-23,JAQ004,345678901234,Jaqueta,3,73.68,16.56,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P031,2024-09-23,MOC006,890123456789,Mochila,3,197.06,35.84,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P031,2024-09-23,CAM001,123456789012,Camiseta,5,57.73,48.42,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P032,2024-09-24,BON005,765432109876,Boné,4,76.93,36.82,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P032,2024-09-24,CAL002,987654321098,Calça Jeans,3,125.59,16.7,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P032,2024-09-24,CAL002,987654321098,Calça Jeans,2,54.51,14.4,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P033,2024-09-01,MOC006,890123456789,Mochila,1,85.95,13.83,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P033,2024-09-01,TEN003,567890123456,Tênis,1,227.23,23.29,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P033,2024-09-01,TEN003,567890123456,Tênis,1,289.3,28.62,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P034,2024-09-26,CAM001,123456789012,Camiseta,1,275.39,32.61,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P034,2024-09-26,CAM001,123456789012,Camiseta,2,263.43,10.87,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P035,2024-09-14,TEN003,567890123456,Tênis,2,110.19,19.39,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P035,2024-09-14,MOC006,890123456789,Mochila,3,189.58,48.49,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P035,2024-09-14,MOC006,890123456789,Mochila,5,245.43,10.55,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P036,2024-09-01,TEN003,567890123456,Tênis,2,269.79,29.92,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P036,2024-09-01,MOC006,890123456789,Mochila,2,124.03,28.67,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P037,2024-09-08,CAM001,123456789012,Camiseta,2,163.88,30.43,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P038,2024-09-09,BON005,765432109876,Boné,3,125.23,28.58,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P039,2024-09-03,TEN003,567890123456,Tênis,5,64.43,23.05,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P039,2024-09-03,BON005,765432109876,Boné,2,209.64,32.81,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P039,2024-09-03,CAL002,987654321098,Calça Jeans,4,67.84,46.28,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P040,2024-09-10,TEN003,567890123456,Tênis,3,282.79,19.22,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P040,2024-09-10,JAQ004,345678901234,Jaqueta,3,177.69,40.94,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P041,2024-09-29,CAL002,987654321098,Calça Jeans,5,198.78,42.05,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P041,2024-09-29,TEN003,567890123456,Tênis,5,167.11,13.81,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P041,2024-09-29,JAQ004,345678901234,Jaqueta,1,265.06,31.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P042,2024-09-03,MOC006,890123456789,Mochila,2,84.35,28.05,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P042,2024-09-03,CAL002,987654321098,Calça Jeans,3,145.3,11.96,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P042,2024-09-03,CAM001,123456789012,Camiseta,5,98.85,29.91,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P043,2024-09-23,JAQ004,345678901234,Jaqueta,3,235.48,21.68,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P043,2024-09-23,TEN003,567890123456,Tênis,1,234.49,47.7,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P044,2024-09-04,JAQ004,345678901234,Jaqueta,5,261.15,23.97,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P044,2024-09-04,BON005,765432109876,Boné,5,131.81,23.91,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P045,2024-09-14,CAL002,987654321098,Calça Jeans,4,220.66,25.08,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P045,2024-09-14,JAQ004,345678901234,Jaqueta,1,265.34,45.52,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P045,2024-09-14,BON005,765432109876,Boné,5,92.06,29.6,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P046,2024-09-29,TEN003,567890123456,Tênis,2,71.09,33.28,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P046,2024-09-29,BON005,765432109876,Boné,5,291.19,29.39,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P046,2024-09-29,CAL002,987654321098,Calça Jeans,4,101.01,17.98,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P047,2024-09-08,JAQ004,345678901234,Jaqueta,5,179.47,11.78,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P047,2024-09-08,CAL002,987654321098,Calça Jeans,5,72.52,12.58,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P047,2024-09-08,JAQ004,345678901234,Jaqueta,5,90.84,37.74,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P048,2024-09-06,TEN003,567890123456,Tênis,5,74.94,48.86,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P049,2024-09-24,JAQ004,345678901234,Jaqueta,5,276.83,28.04,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P049,2024-09-24,TEN003,567890123456,Tênis,2,240.71,45.74,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P049,2024-09-24,MOC006,890123456789,Mochila,2,270.17,26.45,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P050,2024-09-22,JAQ004,345678901234,Jaqueta,2,53.08,35.83,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P051,2024-09-24,CAM001,123456789012,Camiseta,4,212.9,48.48,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P052,2024-09-13,CAM001,123456789012,Camiseta,4,251.86,31.43,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P053,2024-09-13,CAL002,987654321098,Calça Jeans,1,179.67,42.19,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P054,2024-09-21,CAL002,987654321098,Calça Jeans,1,297.0,40.52,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P055,2024-09-10,TEN003,567890123456,Tênis,4,183.78,17.59,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P055,2024-09-10,JAQ004,345678901234,Jaqueta,3,242.55,18.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P055,2024-09-10,CAM001,123456789012,Camiseta,5,230.94,20.49,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P056,2024-09-16,TEN003,567890123456,Tênis,1,130.66,44.4,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P056,2024-09-16,TEN003,567890123456,Tênis,4,57.87,26.47,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P056,2024-09-16,TEN003,567890123456,Tênis,4,132.69,16.76,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P057,2024-09-26,CAM001,123456789012,Camiseta,4,162.36,33.43,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P057,2024-09-26,JAQ004,345678901234,Jaqueta,1,122.09,14.13,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P058,2024-09-08,JAQ004,345678901234,Jaqueta,2,271.23,24.3,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P058,2024-09-08,BON005,765432109876,Boné,3,131.56,18.07,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P059,2024-09-29,MOC006,890123456789,Mochila,1,279.78,36.99,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P059,2024-09-29,TEN003,567890123456,Tênis,2,258.41,41.04,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P060,2024-09-25,JAQ004,345678901234,Jaqueta,5,207.86,34.66,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P060,2024-09-25,JAQ004,345678901234,Jaqueta,1,247.33,46.51,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P060,2024-09-25,JAQ004,345678901234,Jaqueta,1,256.58,13.3,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P061,2024-09-10,TEN003,567890123456,Tênis,3,269.24,12.65,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P062,2024-09-11,JAQ004,345678901234,Jaqueta,4,142.93,43.32,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P062,2024-09-11,MOC006,890123456789,Mochila,1,158.06,29.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P062,2024-09-11,MOC006,890123456789,Mochila,3,247.28,37.63,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P063,2024-09-17,TEN003,567890123456,Tênis,2,66.43,31.18,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P063,2024-09-17,CAL002,987654321098,Calça Jeans,2,178.87,21.23,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P064,2024-09-27,JAQ004,345678901234,Jaqueta,4,212.91,26.5,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P065,2024-09-28,MOC006,890123456789,Mochila,1,62.3,30.62,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P065,2024-09-28,BON005,765432109876,Boné,3,75.81,34.89,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P065,2024-09-28,CAM001,123456789012,Camiseta,5,236.64,30.78,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P066,2024-09-15,TEN003,567890123456,Tênis,2,252.21,13.92,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P066,2024-09-15,CAM001,123456789012,Camiseta,5,125.72,10.88,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P066,2024-09-15,BON005,765432109876,Boné,4,172.16,46.27,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P067,2024-09-13,MOC006,890123456789,Mochila,5,66.92,21.79,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P068,2024-09-09,BON005,765432109876,Boné,4,77.27,38.12,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P068,2024-09-09,MOC006,890123456789,Mochila,1,258.76,20.91,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P068,2024-09-09,MOC006,890123456789,Mochila,5,79.16,23.47,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P069,2024-09-23,BON005,765432109876,Boné,3,70.06,23.51,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P070,2024-09-09,MOC006,890123456789,Mochila,4,210.61,46.08,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P071,2024-09-23,MOC006,890123456789,Mochila,4,85.6,32.48,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P071,2024-09-23,TEN003,567890123456,Tênis,3,169.47,43.03,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P071,2024-09-23,BON005,765432109876,Boné,4,115.49,22.23,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P072,2024-09-08,MOC006,890123456789,Mochila,2,74.15,28.06,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P072,2024-09-08,BON005,765432109876,Boné,1,59.56,39.27,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P073,2024-09-27,CAL002,987654321098,Calça Jeans,3,274.66,37.93,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P073,2024-09-27,MOC006,890123456789,Mochila,4,125.11,12.51,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P074,2024-09-16,JAQ004,345678901234,Jaqueta,5,232.04,20.87,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P074,2024-09-16,BON005,765432109876,Boné,3,133.13,31.9,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P075,2024-09-11,CAM001,123456789012,Camiseta,4,51.1,41.45,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P076,2024-09-26,CAL002,987654321098,Calça Jeans,5,190.13,35.39,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P077,2024-09-17,BON005,765432109876,Boné,5,179.84,38.92,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P077,2024-09-17,TEN003,567890123456,Tênis,1,173.25,48.07,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P078,2024-09-11,MOC006,890123456789,Mochila,4,117.09,25.93,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P078,2024-09-11,TEN003,567890123456,Tênis,4,183.48,34.95,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P079,2024-09-20,TEN003,567890123456,Tênis,2,125.04,31.78,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P079,2024-09-20,MOC006,890123456789,Mochila,3,169.36,10.31,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P079,2024-09-20,JAQ004,345678901234,Jaqueta,1,274.64,12.15,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P080,2024-09-27,MOC006,890123456789,Mochila,5,276.31,14.98,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P081,2024-09-05,CAM001,123456789012,Camiseta,3,101.38,48.07,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P081,2024-09-05,BON005,765432109876,Boné,1,201.06,44.43,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P081,2024-09-05,TEN003,567890123456,Tênis,1,247.28,34.16,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P082,2024-09-21,BON005,765432109876,Boné,5,85.88,30.0,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P082,2024-09-21,CAM001,123456789012,Camiseta,2,233.73,34.05,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P082,2024-09-21,CAL002,987654321098,Calça Jeans,2,135.96,41.98,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P083,2024-09-25,CAL002,987654321098,Calça Jeans,3,99.66,33.44,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P084,2024-09-29,CAL002,987654321098,Calça Jeans,2,189.05,39.9,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P084,2024-09-29,JAQ004,345678901234,Jaqueta,3,259.33,36.03,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P084,2024-09-29,JAQ004,345678901234,Jaqueta,4,85.84,35.43,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P085,2024-09-06,MOC006,890123456789,Mochila,1,225.77,17.67,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P085,2024-09-06,CAM001,123456789012,Camiseta,1,202.34,42.66,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P085,2024-09-06,CAM001,123456789012,Camiseta,2,173.63,40.33,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P086,2024-09-04,BON005,765432109876,Boné,3,70.37,31.35,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P086,2024-09-04,JAQ004,345678901234,Jaqueta,5,158.81,21.86,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P087,2024-09-01,MOC006,890123456789,Mochila,3,57.69,34.67,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P088,2024-09-07,MOC006,890123456789,Mochila,5,88.15,48.21,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P088,2024-09-07,CAM001,123456789012,Camiseta,2,161.34,18.61,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P089,2024-09-18,MOC006,890123456789,Mochila,2,195.94,37.85,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P089,2024-09-18,TEN003,567890123456,Tênis,4,112.59,38.48,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P090,2024-09-15,JAQ004,345678901234,Jaqueta,4,227.12,37.63,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P090,2024-09-15,BON005,765432109876,Boné,4,56.93,14.74,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P091,2024-09-07,TEN003,567890123456,Tênis,1,238.13,34.49,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P091,2024-09-07,TEN003,567890123456,Tênis,4,214.63,30.56,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P091,2024-09-07,CAL002,987654321098,Calça Jeans,5,265.08,24.31,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P092,2024-09-10,CAL002,987654321098,Calça Jeans,4,259.57,33.02,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P092,2024-09-10,TEN003,567890123456,Tênis,1,217.95,22.05,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P093,2024-09-24,CAL002,987654321098,Calça Jeans,2,100.88,23.9,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P093,2024-09-24,CAM001,123456789012,Camiseta,1,285.26,18.48,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P094,2024-09-14,BON005,765432109876,Boné,3,294.89,14.51,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P094,2024-09-14,TEN003,567890123456,Tênis,5,105.69,39.4,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P095,2024-09-04,CAL002,987654321098,Calça Jeans,5,113.11,23.12,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P095,2024-09-04,MOC006,890123456789,Mochila,3,176.01,43.73,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P096,2024-09-18,JAQ004,345678901234,Jaqueta,4,71.54,43.35,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P097,2024-09-12,JAQ004,345678901234,Jaqueta,3,173.29,27.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P097,2024-09-12,CAM001,123456789012,Camiseta,2,258.48,12.3,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P097,2024-09-12,MOC006,890123456789,Mochila,4,77.62,35.72,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P098,2024-09-28,CAL002,987654321098,Calça Jeans,2,199.31,29.37,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P099,2024-09-01,CAL002,987654321098,Calça Jeans,4,141.24,31.6,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P099,2024-09-01,CAL002,987654321098,Calça Jeans,1,172.12,18.48,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P099,2024-09-01,MOC006,890123456789,Mochila,4,110.1,20.99,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P100,2024-09-09,CAM001,123456789012,Camiseta,1,156.24,11.46,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P101,2024-09-04,CAL002,987654321098,Calça Jeans,3,56.47,23.21,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P101,2024-09-04,JAQ004,345678901234,Jaqueta,5,174.55,32.94,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P102,2024-09-15,CAL002,987654321098,Calça Jeans,1,287.82,32.91,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P103,2024-09-05,CAL002,987654321098,Calça Jeans,5,209.52,18.62,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P104,2024-09-08,CAL002,987654321098,Calça Jeans,4,79.93,30.8,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P105,2024-09-22,JAQ004,345678901234,Jaqueta,1,232.52,19.08,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P105,2024-09-22,CAL002,987654321098,Calça Jeans,5,109.81,32.22,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P105,2024-09-22,CAL002,987654321098,Calça Jeans,5,285.28,40.05,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P106,2024-09-19,TEN003,567890123456,Tênis,2,215.5,44.65,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P107,2024-09-03,JAQ004,345678901234,Jaqueta,5,182.63,16.58,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P107,2024-09-03,MOC006,890123456789,Mochila,4,227.55,30.87,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P108,2024-09-25,CAL002,987654321098,Calça Jeans,5,97.52,29.72,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P108,2024-09-25,JAQ004,345678901234,Jaqueta,4,122.5,12.41,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P108,2024-09-25,BON005,765432109876,Boné,4,133.4,11.73,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P109,2024-09-14,MOC006,890123456789,Mochila,5,229.93,48.27,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P110,2024-09-24,BON005,765432109876,Boné,1,106.54,12.83,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P110,2024-09-24,CAM001,123456789012,Camiseta,2,247.52,40.02,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P110,2024-09-24,CAL002,987654321098,Calça Jeans,1,108.45,28.93,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P111,2024-09-03,MOC006,890123456789,Mochila,3,127.09,13.25,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P112,2024-09-30,CAL002,987654321098,Calça Jeans,4,176.67,45.75,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P112,2024-09-30,JAQ004,345678901234,Jaqueta,4,103.93,46.71,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P112,2024-09-30,MOC006,890123456789,Mochila,1,260.06,12.42,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P113,2024-09-13,TEN003,567890123456,Tênis,5,143.58,30.6,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P114,2024-09-25,MOC006,890123456789,Mochila,1,283.36,47.67,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P115,2024-09-07,MOC006,890123456789,Mochila,3,151.06,32.05,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P115,2024-09-07,JAQ004,345678901234,Jaqueta,4,246.65,45.82,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P116,2024-09-01,MOC006,890123456789,Mochila,5,215.16,15.83,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P116,2024-09-01,CAM001,123456789012,Camiseta,1,62.04,35.65,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P116,2024-09-01,JAQ004,345678901234,Jaqueta,4,195.84,42.88,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P117,2024-09-06,CAM001,123456789012,Camiseta,5,60.45,27.62,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P118,2024-09-20,CAL002,987654321098,Calça Jeans,3,277.18,45.88,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P118,2024-09-20,JAQ004,345678901234,Jaqueta,2,70.04,48.47,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P118,2024-09-20,BON005,765432109876,Boné,1,223.86,36.91,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P119,2024-09-13,MOC006,890123456789,Mochila,3,218.66,14.62,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P120,2024-09-15,BON005,765432109876,Boné,2,133.58,23.09,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P121,2024-09-16,CAM001,123456789012,Camiseta,3,135.78,45.02,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P121,2024-09-16,CAL002,987654321098,Calça Jeans,5,117.37,23.04,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P121,2024-09-16,CAM001,123456789012,Camiseta,5,194.54,17.04,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P122,2024-09-17,MOC006,890123456789,Mochila,3,102.54,35.99,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P122,2024-09-17,CAM001,123456789012,Camiseta,2,224.2,35.47,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P123,2024-09-19,CAM001,123456789012,Camiseta,2,131.12,48.42,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P123,2024-09-19,BON005,765432109876,Boné,5,187.35,46.59,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P124,2024-09-04,BON005,765432109876,Boné,1,248.49,43.2,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P124,2024-09-04,JAQ004,345678901234,Jaqueta,3,113.44,38.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P124,2024-09-04,BON005,765432109876,Boné,2,101.48,24.94,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P125,2024-09-02,CAL002,987654321098,Calça Jeans,2,67.91,24.74,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P125,2024-09-02,CAL002,987654321098,Calça Jeans,2,294.96,43.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P125,2024-09-02,CAL002,987654321098,Calça Jeans,5,71.55,34.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P126,2024-09-25,CAL002,987654321098,Calça Jeans,3,176.57,42.56,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P126,2024-09-25,CAM001,123456789012,Camiseta,2,52.57,26.68,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P127,2024-09-06,JAQ004,345678901234,Jaqueta,1,219.12,37.2,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P127,2024-09-06,BON005,765432109876,Boné,4,136.71,38.17,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P128,2024-09-21,TEN003,567890123456,Tênis,4,56.26,21.82,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P128,2024-09-21,MOC006,890123456789,Mochila,5,266.06,19.57,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P129,2024-09-10,MOC006,890123456789,Mochila,1,76.84,23.39,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P129,2024-09-10,CAM001,123456789012,Camiseta,3,136.03,30.57,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P130,2024-09-27,CAL002,987654321098,Calça Jeans,2,220.71,39.24,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P130,2024-09-27,CAM001,123456789012,Camiseta,2,209.3,17.0,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P131,2024-09-23,CAL002,987654321098,Calça Jeans,3,177.08,19.24,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P132,2024-09-03,MOC006,890123456789,Mochila,1,273.63,47.5,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P132,2024-09-03,CAL002,987654321098,Calça Jeans,3,246.37,37.62,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P132,2024-09-03,BON005,765432109876,Boné,4,110.39,43.54,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P133,2024-09-28,BON005,765432109876,Boné,2,257.76,22.67,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P134,2024-09-20,CAM001,123456789012,Camiseta,5,196.76,13.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P135,2024-09-20,TEN003,567890123456,Tênis,1,260.2,11.48,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P135,2024-09-20,MOC006,890123456789,Mochila,2,244.28,21.43,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P136,2024-09-19,JAQ004,345678901234,Jaqueta,2,84.35,24.22,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P136,2024-09-19,JAQ004,345678901234,Jaqueta,3,202.15,30.48,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P137,2024-09-08,MOC006,890123456789,Mochila,2,188.89,26.35,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P137,2024-09-08,TEN003,567890123456,Tênis,5,225.06,45.42,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P138,2024-09-01,CAL002,987654321098,Calça Jeans,2,245.57,25.01,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P139,2024-09-04,JAQ004,345678901234,Jaqueta,1,238.6,44.88,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P140,2024-09-08,JAQ004,345678901234,Jaqueta,1,252.56,11.85,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P140,2024-09-08,JAQ004,345678901234,Jaqueta,2,116.64,41.14,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P141,2024-09-20,MOC006,890123456789,Mochila,5,230.24,31.76,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P141,2024-09-20,CAL002,987654321098,Calça Jeans,1,284.62,15.53,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P141,2024-09-20,BON005,765432109876,Boné,4,189.31,40.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P142,2024-09-28,TEN003,567890123456,Tênis,4,91.19,27.95,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P143,2024-09-19,MOC006,890123456789,Mochila,2,176.14,20.06,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P143,2024-09-19,CAL002,987654321098,Calça Jeans,3,65.82,42.01,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P143,2024-09-19,CAL002,987654321098,Calça Jeans,1,292.59,25.66,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P144,2024-09-26,CAL002,987654321098,Calça Jeans,5,221.53,10.75,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P144,2024-09-26,CAL002,987654321098,Calça Jeans,3,147.02,17.46,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P145,2024-09-24,MOC006,890123456789,Mochila,5,125.83,40.58,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P145,2024-09-24,JAQ004,345678901234,Jaqueta,5,211.54,25.65,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P145,2024-09-24,CAL002,987654321098,Calça Jeans,1,166.44,29.13,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P146,2024-09-10,BON005,765432109876,Boné,5,251.01,21.47,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P147,2024-09-22,CAL002,987654321098,Calça Jeans,2,250.84,32.75,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P148,2024-09-19,MOC006,890123456789,Mochila,5,113.06,10.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P148,2024-09-19,MOC006,890123456789,Mochila,3,57.75,41.52,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P149,2024-09-05,BON005,765432109876,Boné,2,157.89,34.72,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P149,2024-09-05,MOC006,890123456789,Mochila,4,50.86,28.02,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P150,2024-09-26,TEN003,567890123456,Tênis,4,282.72,49.92,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P151,2024-09-20,CAM001,123456789012,Camiseta,1,190.84,41.62,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P152,2024-09-10,CAL002,987654321098,Calça Jeans,3,118.63,43.64,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P153,2024-09-28,CAM001,123456789012,Camiseta,3,175.79,20.76,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P154,2024-09-29,CAM001,123456789012,Camiseta,1,140.97,10.08,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P154,2024-09-29,CAM001,123456789012,Camiseta,1,89.7,43.39,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P154,2024-09-29,BON005,765432109876,Boné,2,201.89,49.95,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P155,2024-09-24,MOC006,890123456789,Mochila,1,203.23,26.7,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P155,2024-09-24,BON005,765432109876,Boné,3,198.19,40.0,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P155,2024-09-24,MOC006,890123456789,Mochila,2,160.83,35.75,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P156,2024-09-14,TEN003,567890123456,Tênis,3,74.98,36.14,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P156,2024-09-14,BON005,765432109876,Boné,1,253.7,45.26,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P157,2024-09-21,CAL002,987654321098,Calça Jeans,2,241.64,43.45,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P157,2024-09-21,CAM001,123456789012,Camiseta,4,165.85,37.77,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P157,2024-09-21,JAQ004,345678901234,Jaqueta,4,118.91,25.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P158,2024-09-28,JAQ004,345678901234,Jaqueta,1,52.73,20.15,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P158,2024-09-28,CAM001,123456789012,Camiseta,5,230.57,29.29,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P158,2024-09-28,CAM001,123456789012,Camiseta,1,85.19,25.67,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P159,2024-09-12,JAQ004,345678901234,Jaqueta,1,72.22,41.01,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P159,2024-09-12,CAM001,123456789012,Camiseta,3,122.62,16.38,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P160,2024-09-23,CAL002,987654321098,Calça Jeans,3,216.9,43.39,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P160,2024-09-23,BON005,765432109876,Boné,1,227.41,17.12,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P160,2024-09-23,TEN003,567890123456,Tênis,5,224.61,17.48,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P161,2024-09-09,TEN003,567890123456,Tênis,2,126.44,30.1,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P161,2024-09-09,BON005,765432109876,Boné,5,265.2,21.21,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P161,2024-09-09,CAL002,987654321098,Calça Jeans,1,70.68,36.28,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P162,2024-09-25,CAM001,123456789012,Camiseta,2,182.88,16.76,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P162,2024-09-25,BON005,765432109876,Boné,5,255.36,32.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P162,2024-09-25,MOC006,890123456789,Mochila,4,267.93,45.49,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P163,2024-09-26,CAM001,123456789012,Camiseta,4,78.98,43.19,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P164,2024-09-02,TEN003,567890123456,Tênis,2,274.39,47.53,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P164,2024-09-02,JAQ004,345678901234,Jaqueta,4,62.74,40.14,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P165,2024-09-29,JAQ004,345678901234,Jaqueta,5,106.88,34.97,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P165,2024-09-29,TEN003,567890123456,Tênis,5,101.43,28.7,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P165,2024-09-29,CAM001,123456789012,Camiseta,1,60.99,49.84,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P166,2024-09-17,TEN003,567890123456,Tênis,4,83.98,34.6,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P167,2024-09-20,CAM001,123456789012,Camiseta,5,100.27,34.53,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P167,2024-09-20,CAL002,987654321098,Calça Jeans,4,261.19,34.96,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P167,2024-09-20,MOC006,890123456789,Mochila,5,65.93,47.07,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P168,2024-09-24,MOC006,890123456789,Mochila,2,256.64,19.68,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P169,2024-09-07,JAQ004,345678901234,Jaqueta,2,51.36,34.95,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P169,2024-09-07,CAL002,987654321098,Calça Jeans,5,84.37,23.44,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P170,2024-09-18,JAQ004,345678901234,Jaqueta,2,155.21,32.94,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P170,2024-09-18,CAL002,987654321098,Calça Jeans,4,191.69,23.67,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P171,2024-09-24,TEN003,567890123456,Tênis,5,95.1,32.59,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P172,2024-09-25,BON005,765432109876,Boné,2,89.77,31.18,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P173,2024-09-02,JAQ004,345678901234,Jaqueta,1,250.25,11.55,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P174,2024-09-16,TEN003,567890123456,Tênis,3,198.07,18.64,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P175,2024-09-27,CAM001,123456789012,Camiseta,5,107.61,20.76,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P175,2024-09-27,TEN003,567890123456,Tênis,2,112.81,33.39,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P176,2024-09-23,CAL002,987654321098,Calça Jeans,3,68.44,26.61,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P176,2024-09-23,BON005,765432109876,Boné,4,153.36,46.36,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P177,2024-09-17,CAM001,123456789012,Camiseta,5,231.99,11.17,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P177,2024-09-17,TEN003,567890123456,Tênis,5,171.86,15.64,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P178,2024-09-18,TEN003,567890123456,Tênis,2,287.5,30.14,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P178,2024-09-18,CAM001,123456789012,Camiseta,1,91.78,22.68,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P179,2024-09-21,BON005,765432109876,Boné,1,62.87,45.66,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P179,2024-09-21,BON005,765432109876,Boné,4,179.05,17.07,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P180,2024-09-23,MOC006,890123456789,Mochila,2,126.6,44.08,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P180,2024-09-23,CAL002,987654321098,Calça Jeans,3,288.39,37.54,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P180,2024-09-23,CAL002,987654321098,Calça Jeans,5,147.2,38.34,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P181,2024-09-17,JAQ004,345678901234,Jaqueta,4,258.67,39.04,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P181,2024-09-17,TEN003,567890123456,Tênis,2,129.02,40.93,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P182,2024-09-13,MOC006,890123456789,Mochila,4,232.68,29.96,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P182,2024-09-13,CAL002,987654321098,Calça Jeans,1,193.45,13.73,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P183,2024-09-10,TEN003,567890123456,Tênis,2,79.91,36.17,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P184,2024-09-23,CAL002,987654321098,Calça Jeans,4,123.93,27.13,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P184,2024-09-23,BON005,765432109876,Boné,5,277.11,26.36,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P184,2024-09-23,MOC006,890123456789,Mochila,1,200.93,37.84,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P185,2024-09-23,BON005,765432109876,Boné,5,293.22,19.02,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P186,2024-09-23,CAL002,987654321098,Calça Jeans,2,135.48,29.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P186,2024-09-23,MOC006,890123456789,Mochila,1,53.81,40.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P186,2024-09-23,JAQ004,345678901234,Jaqueta,3,230.95,23.01,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P187,2024-09-05,CAM001,123456789012,Camiseta,1,106.13,43.72,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P187,2024-09-05,CAM001,123456789012,Camiseta,1,187.65,42.15,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P187,2024-09-05,JAQ004,345678901234,Jaqueta,5,244.03,24.49,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P188,2024-09-06,CAL002,987654321098,Calça Jeans,4,150.63,34.02,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P189,2024-09-28,TEN003,567890123456,Tênis,5,177.28,45.98,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P189,2024-09-28,BON005,765432109876,Boné,2,82.1,15.65,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P190,2024-09-12,CAL002,987654321098,Calça Jeans,3,140.12,17.44,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P191,2024-09-07,TEN003,567890123456,Tênis,2,200.16,46.91,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P192,2024-09-19,CAM001,123456789012,Camiseta,1,80.85,21.11,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P193,2024-09-10,CAM001,123456789012,Camiseta,1,120.19,10.4,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P194,2024-09-01,TEN003,567890123456,Tênis,5,94.71,16.35,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P194,2024-09-01,CAL002,987654321098,Calça Jeans,2,282.26,32.44,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P195,2024-09-15,TEN003,567890123456,Tênis,1,84.4,19.12,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P196,2024-09-06,JAQ004,345678901234,Jaqueta,5,178.24,10.33,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P196,2024-09-06,BON005,765432109876,Boné,5,208.28,41.8,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P197,2024-09-01,TEN003,567890123456,Tênis,1,268.27,23.66,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P198,2024-09-28,CAL002,987654321098,Calça Jeans,1,85.72,24.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P198,2024-09-28,CAM001,123456789012,Camiseta,1,189.04,14.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P198,2024-09-28,MOC006,890123456789,Mochila,2,194.73,49.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P199,2024-09-02,BON005,765432109876,Boné,5,102.81,38.9,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P199,2024-09-02,CAL002,987654321098,Calça Jeans,1,85.87,18.06,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P199,2024-09-02,TEN003,567890123456,Tênis,2,182.95,34.82,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P200,2024-09-21,JAQ004,345678901234,Jaqueta,4,250.59,39.17,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P200,2024-09-21,CAL002,987654321098,Calça Jeans,3,290.43,16.92,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P200,2024-09-21,BON005,765432109876,Boné,4,260.74,16.01,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P201,2024-09-29,BON005,765432109876,Boné,1,290.04,42.37,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P201,2024-09-29,CAL002,987654321098,Calça Jeans,4,74.87,34.08,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P201,2024-09-29,JAQ004,345678901234,Jaqueta,4,106.81,34.26,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P202,2024-09-29,CAM001,123456789012,Camiseta,1,51.18,25.07,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P203,2024-09-21,JAQ004,345678901234,Jaqueta,5,222.89,34.27,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P204,2024-09-16,TEN003,567890123456,Tênis,2,76.01,48.86,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P205,2024-09-05,BON005,765432109876,Boné,2,143.2,27.27,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P205,2024-09-05,TEN003,567890123456,Tênis,3,299.84,36.24,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P205,2024-09-05,MOC006,890123456789,Mochila,4,111.91,17.93,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P206,2024-09-23,TEN003,567890123456,Tênis,5,187.48,46.26,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P207,2024-09-16,MOC006,890123456789,Mochila,5,236.63,44.24,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P208,2024-09-25,JAQ004,345678901234,Jaqueta,1,151.22,40.36,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P208,2024-09-25,TEN003,567890123456,Tênis,1,244.28,28.55,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P208,2024-09-25,CAM001,123456789012,Camiseta,5,264.01,37.33,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P209,2024-09-06,MOC006,890123456789,Mochila,4,277.98,18.23,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P209,2024-09-06,JAQ004,345678901234,Jaqueta,4,156.22,11.93,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P210,2024-09-17,CAM001,123456789012,Camiseta,4,147.55,25.99,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P211,2024-09-06,MOC006,890123456789,Mochila,2,96.14,18.69,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P211,2024-09-06,CAL002,987654321098,Calça Jeans,3,70.18,24.09,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P212,2024-09-29,MOC006,890123456789,Mochila,2,282.37,44.89,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P212,2024-09-29,BON005,765432109876,Boné,1,65.34,46.46,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P213,2024-09-16,TEN003,567890123456,Tênis,3,50.11,44.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P214,2024-09-17,MOC006,890123456789,Mochila,1,172.6,25.96,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P214,2024-09-17,JAQ004,345678901234,Jaqueta,5,253.33,23.74,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P214,2024-09-17,BON005,765432109876,Boné,1,238.22,19.21,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P215,2024-09-10,CAM001,123456789012,Camiseta,5,120.78,21.62,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P215,2024-09-10,BON005,765432109876,Boné,2,258.93,16.92,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P216,2024-09-07,JAQ004,345678901234,Jaqueta,2,215.25,26.65,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P217,2024-09-24,CAM001,123456789012,Camiseta,2,192.91,41.69,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P218,2024-09-13,MOC006,890123456789,Mochila,1,66.48,22.3,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P218,2024-09-13,TEN003,567890123456,Tênis,3,84.0,19.71,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P219,2024-09-23,JAQ004,345678901234,Jaqueta,2,50.35,42.29,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P220,2024-09-27,CAM001,123456789012,Camiseta,1,160.95,22.02,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P221,2024-09-12,CAM001,123456789012,Camiseta,3,275.02,45.39,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P222,2024-09-13,MOC006,890123456789,Mochila,4,117.37,24.2,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P223,2024-09-19,MOC006,890123456789,Mochila,1,131.14,48.97,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P224,2024-09-22,MOC006,890123456789,Mochila,5,83.44,29.75,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P225,2024-09-22,MOC006,890123456789,Mochila,4,227.62,48.7,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P225,2024-09-22,BON005,765432109876,Boné,1,260.19,48.02,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P225,2024-09-22,TEN003,567890123456,Tênis,3,138.21,33.86,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P226,2024-09-10,MOC006,890123456789,Mochila,1,267.22,33.77,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P226,2024-09-10,MOC006,890123456789,Mochila,2,196.52,42.65,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P226,2024-09-10,JAQ004,345678901234,Jaqueta,3,79.46,49.91,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P227,2024-09-02,BON005,765432109876,Boné,1,254.92,10.21,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P227,2024-09-02,CAM001,123456789012,Camiseta,3,162.56,44.61,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P228,2024-09-25,JAQ004,345678901234,Jaqueta,2,169.52,28.61,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P228,2024-09-25,MOC006,890123456789,Mochila,2,112.63,22.19,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P229,2024-09-18,BON005,765432109876,Boné,5,116.4,35.35,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P229,2024-09-18,CAM001,123456789012,Camiseta,3,68.32,40.64,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P230,2024-09-12,TEN003,567890123456,Tênis,3,234.04,18.88,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P230,2024-09-12,MOC006,890123456789,Mochila,3,102.41,39.93,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P230,2024-09-12,MOC006,890123456789,Mochila,5,290.21,11.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P231,2024-09-25,CAM001,123456789012,Camiseta,2,270.0,46.69,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P231,2024-09-25,CAM001,123456789012,Camiseta,4,92.66,34.37,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P231,2024-09-25,CAM001,123456789012,Camiseta,4,173.48,31.9,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P232,2024-09-10,CAM001,123456789012,Camiseta,4,174.29,19.94,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P232,2024-09-10,JAQ004,345678901234,Jaqueta,2,176.72,10.33,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P233,2024-09-05,JAQ004,345678901234,Jaqueta,3,251.78,18.59,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P233,2024-09-05,MOC006,890123456789,Mochila,5,286.98,44.1,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P234,2024-09-07,BON005,765432109876,Boné,4,294.49,27.5,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P234,2024-09-07,MOC006,890123456789,Mochila,4,174.47,25.2,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P234,2024-09-07,MOC006,890123456789,Mochila,3,282.41,33.61,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P235,2024-09-23,BON005,765432109876,Boné,1,82.2,13.12,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P235,2024-09-23,CAM001,123456789012,Camiseta,5,96.28,23.32,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P236,2024-09-11,MOC006,890123456789,Mochila,4,271.27,38.18,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P237,2024-09-10,CAM001,123456789012,Camiseta,5,150.72,38.67,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P237,2024-09-10,CAL002,987654321098,Calça Jeans,5,249.35,35.06,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P237,2024-09-10,MOC006,890123456789,Mochila,5,274.08,29.3,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P238,2024-09-21,CAM001,123456789012,Camiseta,2,132.17,22.69,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P238,2024-09-21,MOC006,890123456789,Mochila,1,249.25,30.97,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P238,2024-09-21,BON005,765432109876,Boné,1,161.01,44.85,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P239,2024-09-13,CAL002,987654321098,Calça Jeans,1,90.99,28.95,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P240,2024-09-15,MOC006,890123456789,Mochila,2,165.89,45.58,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P240,2024-09-15,TEN003,567890123456,Tênis,5,288.42,46.7,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P241,2024-09-05,CAM001,123456789012,Camiseta,2,99.96,16.99,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P242,2024-09-02,TEN003,567890123456,Tênis,3,161.43,49.93,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P242,2024-09-02,MOC006,890123456789,Mochila,3,180.34,28.73,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P243,2024-09-22,BON005,765432109876,Boné,4,197.92,41.39,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P244,2024-09-15,BON005,765432109876,Boné,4,210.26,37.84,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P244,2024-09-15,MOC006,890123456789,Mochila,4,116.59,49.5,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P244,2024-09-15,CAL002,987654321098,Calça Jeans,3,126.12,49.81,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P245,2024-09-28,JAQ004,345678901234,Jaqueta,2,279.45,27.72,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P246,2024-09-27,TEN003,567890123456,Tênis,1,255.46,43.21,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P247,2024-09-12,MOC006,890123456789,Mochila,3,298.81,46.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P248,2024-09-25,JAQ004,345678901234,Jaqueta,3,291.15,40.93,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P249,2024-09-10,MOC006,890123456789,Mochila,4,146.83,21.55,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P250,2024-09-10,BON005,765432109876,Boné,5,74.83,24.73,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P250,2024-09-10,BON005,765432109876,Boné,2,242.03,12.55,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P251,2024-09-30,CAM001,123456789012,Camiseta,4,87.2,23.82,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P252,2024-09-18,BON005,765432109876,Boné,1,176.88,46.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P252,2024-09-18,TEN003,567890123456,Tênis,4,159.04,28.98,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P252,2024-09-18,MOC006,890123456789,Mochila,4,91.97,19.71,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P253,2024-09-22,MOC006,890123456789,Mochila,2,193.79,44.75,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P254,2024-09-20,MOC006,890123456789,Mochila,2,123.98,23.69,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P254,2024-09-20,CAL002,987654321098,Calça Jeans,2,252.2,41.78,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P254,2024-09-20,MOC006,890123456789,Mochila,1,58.0,22.04,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P255,2024-09-01,JAQ004,345678901234,Jaqueta,1,199.64,31.25,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P255,2024-09-01,TEN003,567890123456,Tênis,2,88.47,25.65,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P255,2024-09-01,BON005,765432109876,Boné,4,280.48,20.99,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P256,2024-09-07,CAL002,987654321098,Calça Jeans,2,161.56,10.9,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P256,2024-09-07,CAM001,123456789012,Camiseta,1,150.77,14.62,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P257,2024-09-26,BON005,765432109876,Boné,3,113.05,41.08,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P257,2024-09-26,BON005,765432109876,Boné,3,77.92,36.32,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P258,2024-09-24,TEN003,567890123456,Tênis,4,239.94,37.19,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P258,2024-09-24,JAQ004,345678901234,Jaqueta,2,142.73,43.34,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P259,2024-09-20,CAL002,987654321098,Calça Jeans,5,276.21,12.23,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P260,2024-09-11,BON005,765432109876,Boné,4,193.05,44.23,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P260,2024-09-11,CAM001,123456789012,Camiseta,4,208.78,26.61,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P260,2024-09-11,CAL002,987654321098,Calça Jeans,3,159.04,38.47,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P261,2024-09-14,CAM001,123456789012,Camiseta,4,202.73,20.55,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P261,2024-09-14,CAM001,123456789012,Camiseta,2,141.98,32.64,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P262,2024-09-14,CAL002,987654321098,Calça Jeans,4,298.84,36.31,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P263,2024-09-15,CAL002,987654321098,Calça Jeans,1,206.75,13.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P263,2024-09-15,CAM001,123456789012,Camiseta,4,159.06,48.98,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P263,2024-09-15,MOC006,890123456789,Mochila,5,249.92,20.86,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P264,2024-09-06,BON005,765432109876,Boné,4,101.33,25.28,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P264,2024-09-06,TEN003,567890123456,Tênis,5,283.26,17.13,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P264,2024-09-06,BON005,765432109876,Boné,4,165.01,36.04,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P265,2024-09-01,JAQ004,345678901234,Jaqueta,2,106.81,45.2,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P266,2024-09-19,CAL002,987654321098,Calça Jeans,1,107.17,37.5,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P266,2024-09-19,CAM001,123456789012,Camiseta,4,157.96,24.46,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P266,2024-09-19,CAM001,123456789012,Camiseta,5,213.46,43.97,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P267,2024-09-09,BON005,765432109876,Boné,1,225.3,16.65,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P267,2024-09-09,CAL002,987654321098,Calça Jeans,2,264.97,28.97,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P267,2024-09-09,JAQ004,345678901234,Jaqueta,3,299.59,35.02,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P268,2024-09-21,CAM001,123456789012,Camiseta,5,141.79,30.58,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P269,2024-09-07,CAL002,987654321098,Calça Jeans,4,65.05,19.79,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P270,2024-09-29,BON005,765432109876,Boné,3,256.23,20.62,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P270,2024-09-29,CAM001,123456789012,Camiseta,5,207.07,32.7,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P271,2024-09-22,BON005,765432109876,Boné,4,197.64,45.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P272,2024-09-01,MOC006,890123456789,Mochila,4,234.29,22.38,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P273,2024-09-05,TEN003,567890123456,Tênis,5,193.81,29.08,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P274,2024-09-18,MOC006,890123456789,Mochila,3,145.93,13.69,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P274,2024-09-18,JAQ004,345678901234,Jaqueta,2,115.25,15.84,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P275,2024-09-21,JAQ004,345678901234,Jaqueta,5,169.51,44.39,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P275,2024-09-21,JAQ004,345678901234,Jaqueta,3,114.02,14.28,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P275,2024-09-21,JAQ004,345678901234,Jaqueta,5,290.88,41.86,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P276,2024-09-01,TEN003,567890123456,Tênis,5,184.47,41.06,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P276,2024-09-01,BON005,765432109876,Boné,1,257.79,38.37,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P276,2024-09-01,CAM001,123456789012,Camiseta,2,197.89,49.96,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P277,2024-09-07,CAL002,987654321098,Calça Jeans,4,128.11,30.2,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P277,2024-09-07,TEN003,567890123456,Tênis,4,58.41,15.91,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P277,2024-09-07,CAL002,987654321098,Calça Jeans,3,229.07,40.08,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P278,2024-09-12,BON005,765432109876,Boné,2,206.0,20.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P278,2024-09-12,JAQ004,345678901234,Jaqueta,4,54.02,16.62,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P278,2024-09-12,CAL002,987654321098,Calça Jeans,3,260.44,40.67,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P279,2024-09-08,MOC006,890123456789,Mochila,1,247.8,21.54,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P280,2024-09-22,CAM001,123456789012,Camiseta,5,275.0,48.82,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P280,2024-09-22,MOC006,890123456789,Mochila,2,52.15,27.69,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P281,2024-09-23,MOC006,890123456789,Mochila,2,213.82,35.73,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P281,2024-09-23,CAL002,987654321098,Calça Jeans,4,212.26,18.58,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P282,2024-09-27,CAL002,987654321098,Calça Jeans,3,207.37,30.3,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P283,2024-09-12,JAQ004,345678901234,Jaqueta,5,115.34,31.0,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P284,2024-09-15,BON005,765432109876,Boné,5,164.35,33.75,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P284,2024-09-15,MOC006,890123456789,Mochila,4,68.12,48.51,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P285,2024-09-27,CAL002,987654321098,Calça Jeans,3,284.83,39.47,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P285,2024-09-27,CAM001,123456789012,Camiseta,2,162.39,24.3,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P286,2024-09-22,JAQ004,345678901234,Jaqueta,3,80.87,25.98,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P286,2024-09-22,JAQ004,345678901234,Jaqueta,3,125.55,27.75,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P286,2024-09-22,CAM001,123456789012,Camiseta,5,269.57,36.25,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P287,2024-09-19,CAL002,987654321098,Calça Jeans,1,235.41,11.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P287,2024-09-19,CAM001,123456789012,Camiseta,4,146.49,49.78,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P288,2024-09-16,BON005,765432109876,Boné,2,129.85,28.16,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P289,2024-09-05,MOC006,890123456789,Mochila,3,173.53,27.22,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P289,2024-09-05,JAQ004,345678901234,Jaqueta,4,84.22,28.63,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P290,2024-09-30,CAM001,123456789012,Camiseta,4,208.29,21.74,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P290,2024-09-30,CAL002,987654321098,Calça Jeans,3,239.75,28.35,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P291,2024-09-26,BON005,765432109876,Boné,3,134.76,46.76,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P291,2024-09-26,JAQ004,345678901234,Jaqueta,4,167.29,48.59,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P291,2024-09-26,TEN003,567890123456,Tênis,1,288.74,32.15,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P292,2024-09-16,TEN003,567890123456,Tênis,2,207.87,40.62,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P293,2024-09-11,MOC006,890123456789,Mochila,3,70.88,45.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P293,2024-09-11,JAQ004,345678901234,Jaqueta,1,97.19,10.21,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P294,2024-09-20,JAQ004,345678901234,Jaqueta,5,112.92,23.52,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P294,2024-09-20,JAQ004,345678901234,Jaqueta,5,220.82,16.78,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P294,2024-09-20,TEN003,567890123456,Tênis,1,160.82,31.26,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P295,2024-09-18,CAM001,123456789012,Camiseta,4,173.23,43.27,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P296,2024-09-18,TEN003,567890123456,Tênis,5,176.1,38.3,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P296,2024-09-18,MOC006,890123456789,Mochila,4,69.08,35.54,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P297,2024-09-17,JAQ004,345678901234,Jaqueta,3,135.53,10.73,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P298,2024-09-16,CAL002,987654321098,Calça Jeans,1,243.03,40.29,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P299,2024-09-21,BON005,765432109876,Boné,5,227.31,21.58,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P299,2024-09-21,CAL002,987654321098,Calça Jeans,1,146.74,16.24,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P299,2024-09-21,MOC006,890123456789,Mochila,5,292.37,21.69,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P300,2024-09-18,TEN003,567890123456,Tênis,1,272.28,36.0,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P300,2024-09-18,CAM001,123456789012,Camiseta,5,258.34,31.28,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P301,2024-09-07,MOC006,890123456789,Mochila,1,159.77,40.33,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P301,2024-09-07,JAQ004,345678901234,Jaqueta,2,283.5,43.32,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P302,2024-09-20,CAM001,123456789012,Camiseta,1,191.24,32.2,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P302,2024-09-20,JAQ004,345678901234,Jaqueta,1,95.72,28.93,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P302,2024-09-20,BON005,765432109876,Boné,1,296.8,28.93,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P303,2024-09-11,CAM001,123456789012,Camiseta,1,280.23,39.58,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P303,2024-09-11,TEN003,567890123456,Tênis,1,241.15,19.13,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P304,2024-09-01,MOC006,890123456789,Mochila,2,242.75,47.08,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P304,2024-09-01,CAM001,123456789012,Camiseta,5,203.3,10.92,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P304,2024-09-01,CAL002,987654321098,Calça Jeans,2,208.14,34.72,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P305,2024-09-28,CAM001,123456789012,Camiseta,4,245.27,12.19,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P306,2024-09-30,MOC006,890123456789,Mochila,3,125.07,39.27,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P306,2024-09-30,TEN003,567890123456,Tênis,5,121.63,10.15,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P306,2024-09-30,CAM001,123456789012,Camiseta,1,182.76,10.81,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P307,2024-09-21,MOC006,890123456789,Mochila,4,157.0,13.54,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P308,2024-09-13,MOC006,890123456789,Mochila,1,266.12,42.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P309,2024-09-19,CAM001,123456789012,Camiseta,2,58.3,35.56,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P309,2024-09-19,JAQ004,345678901234,Jaqueta,5,123.75,17.63,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P309,2024-09-19,MOC006,890123456789,Mochila,3,171.54,19.53,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P310,2024-09-04,BON005,765432109876,Boné,3,249.49,28.24,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P311,2024-09-22,MOC006,890123456789,Mochila,1,238.83,47.01,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P311,2024-09-22,JAQ004,345678901234,Jaqueta,5,93.62,23.54,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P311,2024-09-22,MOC006,890123456789,Mochila,2,92.66,18.48,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P312,2024-09-13,CAL002,987654321098,Calça Jeans,1,166.05,33.69,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P312,2024-09-13,MOC006,890123456789,Mochila,4,50.4,33.1,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P312,2024-09-13,TEN003,567890123456,Tênis,4,263.76,23.29,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P313,2024-09-30,CAL002,987654321098,Calça Jeans,1,66.1,25.0,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P313,2024-09-30,CAL002,987654321098,Calça Jeans,5,180.57,28.19,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P313,2024-09-30,JAQ004,345678901234,Jaqueta,5,161.85,21.2,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P314,2024-09-12,TEN003,567890123456,Tênis,3,78.46,21.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P314,2024-09-12,CAL002,987654321098,Calça Jeans,3,125.42,43.87,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P314,2024-09-12,BON005,765432109876,Boné,3,81.3,46.84,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P315,2024-09-14,CAM001,123456789012,Camiseta,1,76.36,44.03,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P315,2024-09-14,BON005,765432109876,Boné,3,219.76,22.87,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P316,2024-09-07,BON005,765432109876,Boné,3,281.59,32.31,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P316,2024-09-07,TEN003,567890123456,Tênis,3,183.6,16.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P316,2024-09-07,MOC006,890123456789,Mochila,2,73.7,47.64,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P317,2024-09-20,JAQ004,345678901234,Jaqueta,1,282.1,48.27,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P317,2024-09-20,MOC006,890123456789,Mochila,5,61.98,24.85,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P318,2024-09-16,BON005,765432109876,Boné,5,177.24,41.2,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P319,2024-09-28,CAM001,123456789012,Camiseta,2,126.09,43.43,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P319,2024-09-28,CAM001,123456789012,Camiseta,4,299.41,25.56,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P320,2024-09-28,TEN003,567890123456,Tênis,2,97.81,21.5,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P321,2024-09-27,JAQ004,345678901234,Jaqueta,4,174.57,44.73,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P322,2024-09-28,TEN003,567890123456,Tênis,4,130.6,11.04,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P323,2024-09-17,MOC006,890123456789,Mochila,4,249.07,49.48,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P323,2024-09-17,JAQ004,345678901234,Jaqueta,2,124.15,11.56,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P324,2024-09-03,CAL002,987654321098,Calça Jeans,2,215.09,10.42,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P324,2024-09-03,BON005,765432109876,Boné,5,54.02,26.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P324,2024-09-03,MOC006,890123456789,Mochila,2,191.26,20.14,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P325,2024-09-16,BON005,765432109876,Boné,2,120.77,35.41,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P325,2024-09-16,MOC006,890123456789,Mochila,1,122.69,32.21,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P325,2024-09-16,TEN003,567890123456,Tênis,4,148.07,26.46,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P326,2024-09-28,JAQ004,345678901234,Jaqueta,5,77.29,37.24,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P326,2024-09-28,CAL002,987654321098,Calça Jeans,2,214.68,28.71,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P327,2024-09-15,CAM001,123456789012,Camiseta,4,73.0,19.81,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P327,2024-09-15,JAQ004,345678901234,Jaqueta,5,101.67,12.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P328,2024-09-03,BON005,765432109876,Boné,2,266.22,41.08,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P328,2024-09-03,CAL002,987654321098,Calça Jeans,4,144.41,35.35,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P328,2024-09-03,TEN003,567890123456,Tênis,2,111.07,36.04,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P329,2024-09-07,BON005,765432109876,Boné,3,144.14,24.35,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P329,2024-09-07,JAQ004,345678901234,Jaqueta,5,293.3,12.41,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P330,2024-09-15,CAL002,987654321098,Calça Jeans,5,294.56,10.6,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P331,2024-09-28,MOC006,890123456789,Mochila,2,240.61,23.38,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P331,2024-09-28,CAM001,123456789012,Camiseta,3,125.01,44.17,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P331,2024-09-28,JAQ004,345678901234,Jaqueta,1,111.61,42.36,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P332,2024-09-02,CAM001,123456789012,Camiseta,3,182.43,28.26,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P333,2024-09-14,MOC006,890123456789,Mochila,5,228.26,31.93,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P333,2024-09-14,CAM001,123456789012,Camiseta,4,167.76,44.37,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P333,2024-09-14,TEN003,567890123456,Tênis,1,140.02,15.23,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P334,2024-09-21,MOC006,890123456789,Mochila,3,221.62,43.52,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P335,2024-09-09,CAL002,987654321098,Calça Jeans,5,167.74,23.0,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P336,2024-09-29,MOC006,890123456789,Mochila,5,166.81,44.88,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P337,2024-09-01,BON005,765432109876,Boné,3,196.73,37.19,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P337,2024-09-01,JAQ004,345678901234,Jaqueta,3,67.27,33.3,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P338,2024-09-03,CAL002,987654321098,Calça Jeans,2,243.31,18.48,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P338,2024-09-03,MOC006,890123456789,Mochila,2,293.91,21.51,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P339,2024-09-27,TEN003,567890123456,Tênis,5,230.18,10.22,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P339,2024-09-27,JAQ004,345678901234,Jaqueta,5,151.01,27.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P339,2024-09-27,MOC006,890123456789,Mochila,1,243.43,42.53,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P340,2024-09-20,JAQ004,345678901234,Jaqueta,1,254.39,42.95,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P340,2024-09-20,CAL002,987654321098,Calça Jeans,1,124.44,26.26,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P341,2024-09-03,CAM001,123456789012,Camiseta,4,282.01,47.12,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P341,2024-09-03,BON005,765432109876,Boné,1,265.0,29.55,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P341,2024-09-03,JAQ004,345678901234,Jaqueta,5,278.84,26.39,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P342,2024-09-27,CAM001,123456789012,Camiseta,5,74.69,38.13,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P343,2024-09-24,TEN003,567890123456,Tênis,4,255.78,17.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P343,2024-09-24,JAQ004,345678901234,Jaqueta,5,69.99,17.3,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P343,2024-09-24,TEN003,567890123456,Tênis,2,216.36,31.64,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P344,2024-09-26,CAL002,987654321098,Calça Jeans,3,85.24,34.67,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P344,2024-09-26,JAQ004,345678901234,Jaqueta,5,50.89,27.67,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P344,2024-09-26,MOC006,890123456789,Mochila,1,157.46,25.29,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P345,2024-09-22,BON005,765432109876,Boné,1,181.69,45.41,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P345,2024-09-22,TEN003,567890123456,Tênis,5,66.61,46.8,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P346,2024-09-20,JAQ004,345678901234,Jaqueta,2,247.53,45.39,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P347,2024-09-13,TEN003,567890123456,Tênis,4,211.24,24.25,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P347,2024-09-13,MOC006,890123456789,Mochila,4,291.34,48.66,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P347,2024-09-13,TEN003,567890123456,Tênis,1,62.77,17.95,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P348,2024-09-06,TEN003,567890123456,Tênis,4,294.37,17.77,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P349,2024-09-23,CAL002,987654321098,Calça Jeans,4,100.1,10.37,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P350,2024-09-13,TEN003,567890123456,Tênis,1,123.52,37.54,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P350,2024-09-13,CAM001,123456789012,Camiseta,4,119.53,27.23,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P350,2024-09-13,MOC006,890123456789,Mochila,5,168.71,42.6,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P351,2024-09-19,CAL002,987654321098,Calça Jeans,4,278.08,32.59,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P352,2024-09-13,JAQ004,345678901234,Jaqueta,4,79.32,37.4,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P353,2024-09-08,BON005,765432109876,Boné,1,233.59,11.09,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P354,2024-09-02,MOC006,890123456789,Mochila,4,131.14,44.06,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P354,2024-09-02,MOC006,890123456789,Mochila,1,91.67,30.99,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P354,2024-09-02,TEN003,567890123456,Tênis,1,169.57,47.05,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P355,2024-09-09,CAL002,987654321098,Calça Jeans,5,89.96,38.06,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P355,2024-09-09,CAM001,123456789012,Camiseta,2,62.64,43.27,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P355,2024-09-09,JAQ004,345678901234,Jaqueta,1,114.45,40.26,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P356,2024-09-01,TEN003,567890123456,Tênis,1,170.84,31.85,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P357,2024-09-07,MOC006,890123456789,Mochila,1,254.81,14.01,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P357,2024-09-07,JAQ004,345678901234,Jaqueta,2,162.27,42.71,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P358,2024-09-11,MOC006,890123456789,Mochila,1,123.83,37.07,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P358,2024-09-11,BON005,765432109876,Boné,5,194.28,32.49,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P359,2024-09-23,CAL002,987654321098,Calça Jeans,4,60.44,38.88,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P360,2024-09-07,TEN003,567890123456,Tênis,1,53.58,43.56,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P361,2024-09-22,TEN003,567890123456,Tênis,2,221.28,21.9,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P361,2024-09-22,MOC006,890123456789,Mochila,5,97.05,32.7,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P361,2024-09-22,CAL002,987654321098,Calça Jeans,3,222.39,42.67,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P362,2024-09-26,TEN003,567890123456,Tênis,3,262.81,19.62,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P363,2024-09-12,MOC006,890123456789,Mochila,2,210.14,12.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P363,2024-09-12,BON005,765432109876,Boné,3,289.11,11.09,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P363,2024-09-12,JAQ004,345678901234,Jaqueta,4,73.35,49.61,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P364,2024-09-29,JAQ004,345678901234,Jaqueta,1,192.26,16.12,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P365,2024-09-02,TEN003,567890123456,Tênis,5,179.28,28.43,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P366,2024-09-17,CAM001,123456789012,Camiseta,1,68.53,45.18,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P366,2024-09-17,TEN003,567890123456,Tênis,1,81.46,23.59,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P367,2024-09-20,BON005,765432109876,Boné,4,154.66,17.32,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P368,2024-09-10,CAL002,987654321098,Calça Jeans,5,153.06,39.52,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P368,2024-09-10,TEN003,567890123456,Tênis,3,280.09,29.83,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P369,2024-09-05,BON005,765432109876,Boné,4,139.19,15.31,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P370,2024-09-30,BON005,765432109876,Boné,5,149.21,19.43,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P370,2024-09-30,JAQ004,345678901234,Jaqueta,1,78.32,29.98,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P370,2024-09-30,JAQ004,345678901234,Jaqueta,3,200.05,23.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P371,2024-09-10,JAQ004,345678901234,Jaqueta,1,169.32,19.24,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P371,2024-09-10,JAQ004,345678901234,Jaqueta,3,65.79,39.13,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P372,2024-09-17,TEN003,567890123456,Tênis,5,93.7,31.12,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P372,2024-09-17,BON005,765432109876,Boné,1,143.29,41.79,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P372,2024-09-17,BON005,765432109876,Boné,4,268.31,10.86,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P373,2024-09-29,MOC006,890123456789,Mochila,3,101.0,28.25,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P374,2024-09-23,MOC006,890123456789,Mochila,2,121.29,25.5,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P375,2024-09-15,CAL002,987654321098,Calça Jeans,1,269.9,39.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P375,2024-09-15,BON005,765432109876,Boné,5,174.72,42.0,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P375,2024-09-15,CAL002,987654321098,Calça Jeans,2,63.69,31.74,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P376,2024-09-01,CAL002,987654321098,Calça Jeans,2,296.25,43.91,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P376,2024-09-01,BON005,765432109876,Boné,5,166.04,35.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P376,2024-09-01,BON005,765432109876,Boné,5,131.26,45.12,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P377,2024-09-19,MOC006,890123456789,Mochila,3,267.38,37.35,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P377,2024-09-19,CAM001,123456789012,Camiseta,5,165.22,17.83,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P377,2024-09-19,JAQ004,345678901234,Jaqueta,4,182.17,37.86,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P378,2024-09-16,BON005,765432109876,Boné,5,293.62,29.15,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P378,2024-09-16,CAL002,987654321098,Calça Jeans,2,89.64,25.98,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P379,2024-09-06,CAM001,123456789012,Camiseta,1,104.41,30.95,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P380,2024-09-21,JAQ004,345678901234,Jaqueta,2,276.02,13.38,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P381,2024-09-11,JAQ004,345678901234,Jaqueta,2,92.18,18.31,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P382,2024-09-28,JAQ004,345678901234,Jaqueta,5,284.35,37.81,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P382,2024-09-28,MOC006,890123456789,Mochila,4,287.46,13.46,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P383,2024-09-28,TEN003,567890123456,Tênis,4,183.75,45.46,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P383,2024-09-28,CAL002,987654321098,Calça Jeans,2,210.35,39.83,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P384,2024-09-08,CAL002,987654321098,Calça Jeans,5,143.84,30.01,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P384,2024-09-08,CAL002,987654321098,Calça Jeans,1,270.47,30.62,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P385,2024-09-29,TEN003,567890123456,Tênis,5,56.05,41.91,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P385,2024-09-29,JAQ004,345678901234,Jaqueta,5,126.88,11.9,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P385,2024-09-29,MOC006,890123456789,Mochila,3,250.06,11.5,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P386,2024-09-28,JAQ004,345678901234,Jaqueta,2,166.16,27.17,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P386,2024-09-28,JAQ004,345678901234,Jaqueta,5,279.22,42.17,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P386,2024-09-28,JAQ004,345678901234,Jaqueta,5,111.97,36.36,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P387,2024-09-03,CAL002,987654321098,Calça Jeans,2,170.73,42.76,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P387,2024-09-03,MOC006,890123456789,Mochila,5,296.63,44.93,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P388,2024-09-29,JAQ004,345678901234,Jaqueta,2,98.42,17.25,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P389,2024-09-18,JAQ004,345678901234,Jaqueta,2,244.55,22.97,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P389,2024-09-18,MOC006,890123456789,Mochila,4,290.99,41.63,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P390,2024-09-09,BON005,765432109876,Boné,5,161.26,24.91,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P391,2024-09-19,CAM001,123456789012,Camiseta,1,162.31,47.98,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P391,2024-09-19,CAM001,123456789012,Camiseta,4,273.43,37.37,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P392,2024-09-19,JAQ004,345678901234,Jaqueta,4,223.05,10.78,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P392,2024-09-19,CAL002,987654321098,Calça Jeans,5,131.12,10.59,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P392,2024-09-19,CAM001,123456789012,Camiseta,1,56.53,46.29,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P393,2024-09-28,CAL002,987654321098,Calça Jeans,4,268.79,15.53,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P394,2024-09-04,CAL002,987654321098,Calça Jeans,4,252.59,37.95,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P395,2024-09-29,JAQ004,345678901234,Jaqueta,3,70.83,38.1,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P395,2024-09-29,MOC006,890123456789,Mochila,1,54.02,37.91,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P396,2024-09-13,MOC006,890123456789,Mochila,5,270.41,13.24,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P397,2024-09-17,MOC006,890123456789,Mochila,2,190.53,21.56,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P397,2024-09-17,CAM001,123456789012,Camiseta,5,244.13,13.58,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P398,2024-09-26,JAQ004,345678901234,Jaqueta,1,242.04,43.65,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P398,2024-09-26,MOC006,890123456789,Mochila,1,236.86,18.36,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P398,2024-09-26,CAL002,987654321098,Calça Jeans,1,98.13,40.25,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P399,2024-09-26,JAQ004,345678901234,Jaqueta,2,242.39,29.94,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P399,2024-09-26,JAQ004,345678901234,Jaqueta,3,289.23,33.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P399,2024-09-26,JAQ004,345678901234,Jaqueta,5,71.28,32.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P400,2024-09-12,CAL002,987654321098,Calça Jeans,5,51.7,43.38,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P400,2024-09-12,JAQ004,345678901234,Jaqueta,4,289.79,48.08,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P400,2024-09-12,CAM001,123456789012,Camiseta,3,105.98,39.61,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P401,2024-09-03,TEN003,567890123456,Tênis,3,89.81,23.61,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P401,2024-09-03,CAL002,987654321098,Calça Jeans,4,181.37,11.28,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P401,2024-09-03,JAQ004,345678901234,Jaqueta,1,170.55,21.14,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P402,2024-09-05,MOC006,890123456789,Mochila,5,279.11,35.27,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P402,2024-09-05,MOC006,890123456789,Mochila,1,254.98,38.14,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P403,2024-09-30,BON005,765432109876,Boné,4,56.52,24.61,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P403,2024-09-30,CAM001,123456789012,Camiseta,5,64.35,45.99,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P404,2024-09-25,CAL002,987654321098,Calça Jeans,5,182.14,16.05,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P405,2024-09-07,TEN003,567890123456,Tênis,5,85.94,14.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P406,2024-09-28,BON005,765432109876,Boné,1,217.08,25.29,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P406,2024-09-28,TEN003,567890123456,Tênis,3,284.03,27.7,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P407,2024-09-23,TEN003,567890123456,Tênis,3,118.86,14.71,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P407,2024-09-23,JAQ004,345678901234,Jaqueta,1,152.09,35.22,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P407,2024-09-23,TEN003,567890123456,Tênis,4,87.8,37.24,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P408,2024-09-19,CAL002,987654321098,Calça Jeans,5,75.52,25.15,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P408,2024-09-19,JAQ004,345678901234,Jaqueta,1,188.44,48.74,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P409,2024-09-03,CAL002,987654321098,Calça Jeans,3,286.69,35.75,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P409,2024-09-03,MOC006,890123456789,Mochila,4,108.83,18.44,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P410,2024-09-12,MOC006,890123456789,Mochila,2,73.11,19.82,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P410,2024-09-12,TEN003,567890123456,Tênis,5,72.27,31.6,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P410,2024-09-12,CAM001,123456789012,Camiseta,3,129.1,13.82,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P411,2024-09-16,BON005,765432109876,Boné,2,78.74,47.96,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P411,2024-09-16,TEN003,567890123456,Tênis,3,53.47,20.15,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P411,2024-09-16,MOC006,890123456789,Mochila,5,295.17,24.9,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P412,2024-09-02,TEN003,567890123456,Tênis,2,76.69,31.33,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P413,2024-09-18,BON005,765432109876,Boné,1,160.12,32.98,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P414,2024-09-29,JAQ004,345678901234,Jaqueta,3,181.39,47.61,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P414,2024-09-29,BON005,765432109876,Boné,2,64.54,37.83,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P414,2024-09-29,CAL002,987654321098,Calça Jeans,5,237.67,49.9,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P415,2024-09-19,MOC006,890123456789,Mochila,3,102.62,40.48,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P415,2024-09-19,MOC006,890123456789,Mochila,3,252.97,32.38,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P415,2024-09-19,CAL002,987654321098,Calça Jeans,5,247.54,10.64,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P416,2024-09-09,BON005,765432109876,Boné,3,268.82,32.43,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P416,2024-09-09,CAL002,987654321098,Calça Jeans,3,179.32,20.76,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P417,2024-09-27,CAL002,987654321098,Calça Jeans,4,206.42,18.59,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P417,2024-09-27,JAQ004,345678901234,Jaqueta,4,88.7,15.56,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P417,2024-09-27,CAM001,123456789012,Camiseta,2,102.56,32.74,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P418,2024-09-10,MOC006,890123456789,Mochila,4,181.85,34.19,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P418,2024-09-10,BON005,765432109876,Boné,5,267.4,47.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P418,2024-09-10,JAQ004,345678901234,Jaqueta,4,232.96,35.78,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P419,2024-09-17,MOC006,890123456789,Mochila,1,147.52,26.22,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P420,2024-09-21,MOC006,890123456789,Mochila,3,240.9,48.87,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P420,2024-09-21,TEN003,567890123456,Tênis,4,71.15,13.7,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P421,2024-09-29,JAQ004,345678901234,Jaqueta,2,59.15,10.65,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P422,2024-09-13,CAL002,987654321098,Calça Jeans,3,209.04,31.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P422,2024-09-13,CAM001,123456789012,Camiseta,2,213.34,35.46,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P423,2024-09-07,JAQ004,345678901234,Jaqueta,1,165.79,10.36,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P423,2024-09-07,MOC006,890123456789,Mochila,4,201.49,21.95,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P423,2024-09-07,CAL002,987654321098,Calça Jeans,5,131.32,26.3,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P424,2024-09-18,JAQ004,345678901234,Jaqueta,4,152.61,35.91,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P424,2024-09-18,MOC006,890123456789,Mochila,5,137.71,13.3,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P425,2024-09-30,TEN003,567890123456,Tênis,1,81.66,33.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P425,2024-09-30,CAM001,123456789012,Camiseta,3,95.05,49.47,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P425,2024-09-30,CAM001,123456789012,Camiseta,1,171.74,12.8,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P426,2024-09-19,BON005,765432109876,Boné,3,295.82,46.41,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P427,2024-09-03,BON005,765432109876,Boné,3,271.07,49.43,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P427,2024-09-03,CAM001,123456789012,Camiseta,2,284.66,24.72,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P428,2024-09-22,CAL002,987654321098,Calça Jeans,1,281.15,29.98,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P428,2024-09-22,CAL002,987654321098,Calça Jeans,1,90.57,14.91,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P428,2024-09-22,BON005,765432109876,Boné,5,76.11,45.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P429,2024-09-27,JAQ004,345678901234,Jaqueta,4,55.69,35.96,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P429,2024-09-27,BON005,765432109876,Boné,4,248.06,13.2,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P430,2024-09-19,JAQ004,345678901234,Jaqueta,4,98.16,24.46,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P431,2024-09-26,MOC006,890123456789,Mochila,1,221.3,36.17,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P431,2024-09-26,CAL002,987654321098,Calça Jeans,4,86.02,47.1,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P432,2024-09-16,CAL002,987654321098,Calça Jeans,5,278.65,23.41,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P432,2024-09-16,CAL002,987654321098,Calça Jeans,3,185.66,43.98,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P433,2024-09-10,CAM001,123456789012,Camiseta,4,199.51,19.65,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P433,2024-09-10,BON005,765432109876,Boné,5,97.7,46.94,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P434,2024-09-05,TEN003,567890123456,Tênis,3,182.05,41.6,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P435,2024-09-12,MOC006,890123456789,Mochila,3,131.72,11.21,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P435,2024-09-12,CAL002,987654321098,Calça Jeans,5,153.57,29.0,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P436,2024-09-24,TEN003,567890123456,Tênis,3,184.6,13.03,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P436,2024-09-24,MOC006,890123456789,Mochila,3,168.57,29.8,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P437,2024-09-24,CAL002,987654321098,Calça Jeans,5,290.79,35.84,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P437,2024-09-24,CAM001,123456789012,Camiseta,5,261.77,34.68,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P437,2024-09-24,JAQ004,345678901234,Jaqueta,5,97.72,16.22,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P438,2024-09-07,TEN003,567890123456,Tênis,2,283.74,40.53,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P438,2024-09-07,CAL002,987654321098,Calça Jeans,3,264.18,14.56,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P439,2024-09-26,BON005,765432109876,Boné,1,262.41,26.89,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P439,2024-09-26,BON005,765432109876,Boné,3,54.68,34.52,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P439,2024-09-26,MOC006,890123456789,Mochila,1,198.82,43.43,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P440,2024-09-07,TEN003,567890123456,Tênis,2,119.87,27.92,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P440,2024-09-07,CAL002,987654321098,Calça Jeans,4,188.44,12.46,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P440,2024-09-07,JAQ004,345678901234,Jaqueta,3,206.39,47.16,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P441,2024-09-06,JAQ004,345678901234,Jaqueta,3,135.34,42.85,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P441,2024-09-06,CAM001,123456789012,Camiseta,4,73.81,33.44,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P441,2024-09-06,TEN003,567890123456,Tênis,2,144.83,15.61,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P442,2024-09-07,CAM001,123456789012,Camiseta,4,102.85,36.46,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P442,2024-09-07,MOC006,890123456789,Mochila,2,216.46,36.62,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P443,2024-09-15,CAL002,987654321098,Calça Jeans,4,122.79,13.28,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P443,2024-09-15,CAM001,123456789012,Camiseta,2,283.6,22.21,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P444,2024-09-20,TEN003,567890123456,Tênis,3,161.87,30.02,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P444,2024-09-20,CAL002,987654321098,Calça Jeans,3,146.72,22.45,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P444,2024-09-20,MOC006,890123456789,Mochila,1,131.34,12.67,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P445,2024-09-28,TEN003,567890123456,Tênis,3,143.22,22.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P446,2024-09-18,CAL002,987654321098,Calça Jeans,2,238.55,18.62,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P446,2024-09-18,JAQ004,345678901234,Jaqueta,2,273.58,41.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P446,2024-09-18,MOC006,890123456789,Mochila,2,144.53,39.45,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P447,2024-09-19,BON005,765432109876,Boné,4,207.76,10.01,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P447,2024-09-19,JAQ004,345678901234,Jaqueta,2,142.63,36.68,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P448,2024-09-06,CAL002,987654321098,Calça Jeans,5,253.58,39.19,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P449,2024-09-03,JAQ004,345678901234,Jaqueta,5,295.11,23.58,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P449,2024-09-03,CAM001,123456789012,Camiseta,5,83.78,46.91,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P449,2024-09-03,BON005,765432109876,Boné,3,269.0,24.77,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P450,2024-09-04,JAQ004,345678901234,Jaqueta,1,241.82,18.34,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P451,2024-09-09,JAQ004,345678901234,Jaqueta,5,153.21,13.99,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P451,2024-09-09,JAQ004,345678901234,Jaqueta,3,174.08,35.96,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P451,2024-09-09,TEN003,567890123456,Tênis,3,92.14,33.89,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P452,2024-09-17,TEN003,567890123456,Tênis,5,142.38,18.36,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P453,2024-09-26,CAL002,987654321098,Calça Jeans,4,193.44,24.15,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P454,2024-09-07,JAQ004,345678901234,Jaqueta,2,265.65,17.44,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P454,2024-09-07,BON005,765432109876,Boné,5,248.71,30.83,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P454,2024-09-07,CAM001,123456789012,Camiseta,4,148.91,18.38,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P455,2024-09-09,CAM001,123456789012,Camiseta,2,165.08,38.56,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P456,2024-09-16,JAQ004,345678901234,Jaqueta,1,132.94,22.81,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P456,2024-09-16,BON005,765432109876,Boné,5,207.77,45.75,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P457,2024-09-08,TEN003,567890123456,Tênis,1,58.88,30.36,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P457,2024-09-08,BON005,765432109876,Boné,1,195.17,40.04,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P457,2024-09-08,CAM001,123456789012,Camiseta,3,247.27,15.81,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P458,2024-09-11,JAQ004,345678901234,Jaqueta,2,116.68,25.84,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P459,2024-09-16,TEN003,567890123456,Tênis,2,51.6,27.83,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P459,2024-09-16,JAQ004,345678901234,Jaqueta,2,207.76,23.1,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P459,2024-09-16,MOC006,890123456789,Mochila,3,275.66,45.94,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P460,2024-09-01,TEN003,567890123456,Tênis,3,229.84,18.41,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P461,2024-09-15,BON005,765432109876,Boné,4,166.41,22.4,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P461,2024-09-15,JAQ004,345678901234,Jaqueta,5,282.84,33.37,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P462,2024-09-05,TEN003,567890123456,Tênis,1,93.6,37.91,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P463,2024-09-24,MOC006,890123456789,Mochila,4,204.84,44.35,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P463,2024-09-24,CAL002,987654321098,Calça Jeans,1,200.84,25.11,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P463,2024-09-24,BON005,765432109876,Boné,2,147.82,41.85,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P464,2024-09-17,TEN003,567890123456,Tênis,5,217.01,49.4,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P464,2024-09-17,BON005,765432109876,Boné,4,250.32,17.71,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P464,2024-09-17,BON005,765432109876,Boné,3,73.37,19.89,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P465,2024-09-01,TEN003,567890123456,Tênis,3,287.14,42.95,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P465,2024-09-01,CAM001,123456789012,Camiseta,3,138.66,46.86,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P465,2024-09-01,MOC006,890123456789,Mochila,5,262.59,44.49,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P466,2024-09-16,JAQ004,345678901234,Jaqueta,5,143.98,20.02,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P466,2024-09-16,JAQ004,345678901234,Jaqueta,1,122.27,18.24,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P466,2024-09-16,CAL002,987654321098,Calça Jeans,1,69.56,24.55,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P467,2024-09-28,CAL002,987654321098,Calça Jeans,4,180.87,48.23,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P468,2024-09-23,CAL002,987654321098,Calça Jeans,5,53.8,45.23,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P468,2024-09-23,MOC006,890123456789,Mochila,4,128.79,46.31,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P468,2024-09-23,MOC006,890123456789,Mochila,3,221.01,44.53,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P469,2024-09-02,CAM001,123456789012,Camiseta,5,230.74,39.14,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P469,2024-09-02,TEN003,567890123456,Tênis,2,175.08,49.35,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P470,2024-09-16,TEN003,567890123456,Tênis,2,166.41,42.89,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P471,2024-09-05,BON005,765432109876,Boné,5,109.01,38.81,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P472,2024-09-30,CAM001,123456789012,Camiseta,4,209.79,42.6,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P472,2024-09-30,TEN003,567890123456,Tênis,1,227.06,45.96,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P473,2024-09-02,CAL002,987654321098,Calça Jeans,2,286.44,21.43,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P473,2024-09-02,CAL002,987654321098,Calça Jeans,1,205.77,39.63,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P473,2024-09-02,MOC006,890123456789,Mochila,5,103.17,16.42,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P474,2024-09-14,JAQ004,345678901234,Jaqueta,2,141.94,15.0,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P474,2024-09-14,MOC006,890123456789,Mochila,1,277.23,26.05,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P475,2024-09-10,CAM001,123456789012,Camiseta,1,135.7,41.43,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P475,2024-09-10,JAQ004,345678901234,Jaqueta,2,103.55,46.49,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P476,2024-09-01,CAL002,987654321098,Calça Jeans,1,188.81,31.14,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P476,2024-09-01,JAQ004,345678901234,Jaqueta,4,176.57,36.19,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P476,2024-09-01,TEN003,567890123456,Tênis,5,249.93,42.65,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P477,2024-09-07,MOC006,890123456789,Mochila,5,92.76,35.19,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P477,2024-09-07,CAL002,987654321098,Calça Jeans,3,63.77,38.71,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P477,2024-09-07,CAL002,987654321098,Calça Jeans,4,273.41,18.01,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P478,2024-09-07,BON005,765432109876,Boné,3,138.67,46.97,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P478,2024-09-07,JAQ004,345678901234,Jaqueta,2,174.22,25.78,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P479,2024-09-16,TEN003,567890123456,Tênis,4,196.93,45.31,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P480,2024-09-20,CAM001,123456789012,Camiseta,4,132.76,10.39,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P480,2024-09-20,JAQ004,345678901234,Jaqueta,2,266.65,44.42,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P481,2024-09-17,TEN003,567890123456,Tênis,3,276.7,45.71,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P482,2024-09-16,MOC006,890123456789,Mochila,2,234.38,26.15,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P482,2024-09-16,CAL002,987654321098,Calça Jeans,2,76.81,32.0,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P483,2024-09-04,BON005,765432109876,Boné,2,138.89,47.77,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P484,2024-09-22,TEN003,567890123456,Tênis,5,171.96,37.74,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P484,2024-09-22,TEN003,567890123456,Tênis,2,74.14,37.89,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P485,2024-09-08,TEN003,567890123456,Tênis,1,70.17,14.2,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P486,2024-09-25,CAL002,987654321098,Calça Jeans,3,214.43,15.4,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P487,2024-09-26,BON005,765432109876,Boné,2,215.78,40.4,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P488,2024-09-28,MOC006,890123456789,Mochila,5,136.1,38.31,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P488,2024-09-28,CAM001,123456789012,Camiseta,3,71.76,36.35,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P489,2024-09-22,CAM001,123456789012,Camiseta,1,207.54,40.33,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P489,2024-09-22,JAQ004,345678901234,Jaqueta,4,119.37,44.04,lucas@gmail.com,1005,Lucas Costa,"Av. E, 202",56789-012,RS,Brasil
+P490,2024-09-18,MOC006,890123456789,Mochila,3,273.24,30.47,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P491,2024-09-22,CAL002,987654321098,Calça Jeans,1,287.93,48.51,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
+P492,2024-09-24,CAM001,123456789012,Camiseta,2,170.44,44.05,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P493,2024-09-06,BON005,765432109876,Boné,5,103.18,11.74,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P493,2024-09-06,MOC006,890123456789,Mochila,1,299.74,31.53,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P494,2024-09-02,MOC006,890123456789,Mochila,1,292.34,23.92,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P494,2024-09-02,JAQ004,345678901234,Jaqueta,3,211.34,48.19,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P495,2024-09-20,BON005,765432109876,Boné,4,70.78,18.51,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P496,2024-09-28,TEN003,567890123456,Tênis,1,283.61,33.8,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P496,2024-09-28,JAQ004,345678901234,Jaqueta,5,220.23,38.83,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P496,2024-09-28,CAM001,123456789012,Camiseta,5,243.07,33.46,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P497,2024-09-15,MOC006,890123456789,Mochila,5,167.14,38.68,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P497,2024-09-15,TEN003,567890123456,Tênis,4,124.57,38.97,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P497,2024-09-15,BON005,765432109876,Boné,3,127.59,30.61,joao@gmail.com,1001,João Silva,"Rua A, 123",12345-678,SP,Brasil
+P498,2024-09-17,TEN003,567890123456,Tênis,3,102.63,24.38,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P498,2024-09-17,MOC006,890123456789,Mochila,5,287.92,40.46,ana@gmail.com,1004,Ana Souza,"Rua D, 101",45678-901,BA,Brasil
+P499,2024-09-07,JAQ004,345678901234,Jaqueta,5,240.55,38.29,maria@gmail.com,1002,Maria Oliveira,"Av. B, 456",23456-789,RJ,Brasil
+P500,2024-09-04,BON005,765432109876,Boné,5,258.81,13.25,pedro@gmail.com,1003,Pedro Santos,"Rua C, 789",34567-890,MG,Brasil
