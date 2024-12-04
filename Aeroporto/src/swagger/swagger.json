@@ -1,0 +1,205 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "title": "API de Voos",
+      "version": "1.0.0",
+      "description": "API para gerenciamento de voos em um aeroporto"
+    },
+    "paths": {
+      "/api/voos": {
+        "get": {
+          "summary": "Lista todos os voos",
+          "operationId": "listarVoos",
+          "responses": {
+            "200": {
+              "description": "Lista de voos",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Voo"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "post": {
+          "summary": "Cria um novo voo",
+          "operationId": "criarVoo",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Voo"
+                }
+              }
+            }
+          },
+          "responses": {
+            "201": {
+              "description": "Voo criado com sucesso"
+            },
+            "400": {
+              "description": "Requisição inválida"
+            },
+            "500": {
+              "description": "Erro no servidor"
+            }
+          }
+        }
+      },
+      "/api/voos/{codigo}": {
+        "get": {
+          "summary": "Visualiza um voo específico",
+          "operationId": "visualizarVoo",
+          "parameters": [
+            {
+              "name": "codigo",
+              "in": "path",
+              "required": true,
+              "description": "Código do voo",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Voo encontrado",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "$ref": "#/components/schemas/Voo"
+                  }
+                }
+              }
+            },
+            "404": {
+              "description": "Voo não encontrado"
+            },
+            "500": {
+              "description": "Erro no servidor"
+            }
+          }
+        },
+        "put": {
+          "summary": "Atualiza um voo específico",
+          "operationId": "atualizarVoo",
+          "parameters": [
+            {
+              "name": "codigo",
+              "in": "path",
+              "required": true,
+              "description": "Código do voo",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Voo"
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Voo atualizado com sucesso"
+            },
+            "400": {
+              "description": "Requisição inválida"
+            },
+            "404": {
+              "description": "Voo não encontrado"
+            },
+            "500": {
+              "description": "Erro no servidor"
+            }
+          }
+        },
+        "delete": {
+          "summary": "Exclui um voo específico",
+          "operationId": "excluirVoo",
+          "parameters": [
+            {
+              "name": "codigo",
+              "in": "path",
+              "required": true,
+              "description": "Código do voo",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Voo excluído com sucesso"
+            },
+            "404": {
+              "description": "Voo não encontrado"
+            },
+            "500": {
+              "description": "Erro no servidor"
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "Voo": {
+          "type": "object",
+          "properties": {
+            "codigo_voo": {
+              "type": "string",
+              "example": "123ABC"
+            },
+            "aeronave": {
+              "type": "string",
+              "example": "Boeing 737"
+            },
+            "origem": {
+              "type": "string",
+              "example": "São Paulo"
+            },
+            "destino": {
+              "type": "string",
+              "example": "Rio de Janeiro"
+            },
+            "horario_partida": {
+              "type": "string",
+              "format": "date-time",
+              "example": "2024-12-04T19:21:37.583Z"
+            },
+            "horario_chegada": {
+              "type": "string",
+              "format": "date-time",
+              "example": "2024-12-04T21:30:00.000Z"
+            },
+            "status": {
+              "type": "string",
+              "example": "Em voo"
+            }
+          },
+          "required": [
+            "codigo_voo",
+            "aeronave",
+            "origem",
+            "destino",
+            "horario_partida",
+            "horario_chegada",
+            "status"
+          ]
+        }
+      }
+    }
+  }
+  
